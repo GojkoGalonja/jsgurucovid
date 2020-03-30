@@ -1,0 +1,2 @@
+# jsgurucovid
+Data for Bosnia
