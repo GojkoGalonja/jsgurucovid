@@ -1,2 +1,2 @@
 # jsgurucovid
-Data for Bosnia
+Data for Bosnia and GeoJSON for mapping countries
