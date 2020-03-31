@@ -234,7 +234,7 @@
     "key": "Buzim",
     "latitude": 45.0489,
     "longitude": 16.0240,
-    "broboljelih": 1,
+    "broboljelih": 0,
     "name": "Buzim"
   },
   {
@@ -280,11 +280,11 @@
     "name": "Cazin"
   },
   {
-    "key": "Gornji Vakuf",
+    "key": "Gornji Vakuf - Uskoplje",
     "latitude": 43.9375,
     "longitude": 17.5880,
     "broboljelih": 1,
-    "name": "Cazin"
+    "name": "Gornji Vakuf - Uskoplje"
   },
   {
     "key": "Zepce",
