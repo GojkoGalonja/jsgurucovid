@@ -31,7 +31,7 @@
     "key": "Mostar",
     "latitude": 43.343033,
     "longitude": 17.807894,
-    "broboljelih": 12,
+    "broboljelih": 17,
     "name": "Mostar"
   },
   {
@@ -87,7 +87,7 @@
     "key": "Konjic",
     "latitude": 43.65126,
     "longitude": 17.96082,
-    "broboljelih": 25,
+    "broboljelih": 26,
     "name": "Konjic"
   },
   {
@@ -255,14 +255,14 @@
     "key": "Citluk",
     "latitude": 43.22861,
     "longitude": 17.70083,
-    "broboljelih": 7,
+    "broboljelih": 11,
     "name": "Citluk"
   },
   {
     "key": "Siroki Brijeg",
     "latitude": 43.3829,
     "longitude": 17.59416,
-    "broboljelih": 13,
+    "broboljelih": 14,
     "name": "Siroki Brijeg"
   },
   {
@@ -291,7 +291,7 @@
     "latitude": 44.4287,
     "longitude": 18.0379,
     "broboljelih": 1,
-    "name": "Cazin"
+    "name": "Zepce"
   },
   {
     "key": "Lukavac",
@@ -313,5 +313,19 @@
     "longitude": 18.3002,
     "broboljelih": 9,
     "name": "Ilidza"
+  },
+  {
+    "key": "Vogosca",
+    "latitude": 43.9022,
+    "longitude": 18.3426,
+    "broboljelih": 1,
+    "name": "Vogosca"
+  },
+  {
+    "key": "Ilijas",
+    "latitude": 43.9486,
+    "longitude": 18.2649,
+    "broboljelih": 1,
+    "name": "Ilijas"
   }
 ]
