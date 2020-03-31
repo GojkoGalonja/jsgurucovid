@@ -3,7 +3,7 @@
     "key": "Sarajevo",
     "latitude": 43.85643,
     "longitude": 18.413029,
-    "broboljelih": 16,
+    "broboljelih": 10,
     "name": "Sarajevo"
   },
   {
@@ -24,7 +24,7 @@
     "key": "Tuzla",
     "latitude": 44.53842,
     "longitude": 18.66709,
-    "broboljelih": 20,
+    "broboljelih": 28,
     "name": "Tuzla"
   },
   {
@@ -150,7 +150,7 @@
     "key": "Srebrenik",
     "latitude": 44.7075,
     "longitude": 18.4919,
-    "broboljelih": 8,
+    "broboljelih": 9,
     "name": "Srebrenik"
   },
   {
@@ -185,7 +185,7 @@
     "key": "Brcko",
     "latitude": 44.87278,
     "longitude": 18.80833,
-    "broboljelih": 3,
+    "broboljelih": 6,
     "name": "Brcko"
   },
   {
@@ -297,7 +297,7 @@
     "key": "Lukavac",
     "latitude": 44.533627,
     "longitude": 18.533724,
-    "broboljelih": 1,
+    "broboljelih": 2,
     "name": "Lukavac"
   },
   {
@@ -306,5 +306,12 @@
     "longitude": 18.1178,
     "broboljelih": 3,
     "name": "Kakanj"
+  },
+  {
+    "key": "Ilidza",
+    "latitude": 43.8314,
+    "longitude": 18.3002,
+    "broboljelih": 9,
+    "name": "Ilidza"
   }
 ]
