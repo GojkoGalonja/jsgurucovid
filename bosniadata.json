@@ -3,7 +3,7 @@
     "key": "Sarajevo",
     "latitude": 43.85643,
     "longitude": 18.413029,
-    "broboljelih": 10,
+    "broboljelih": 11,
     "name": "Sarajevo"
   },
   {
@@ -122,7 +122,7 @@
     "key": "Zavidovici",
     "latitude": 44.4437,
     "longitude": 18.1451,
-    "broboljelih": 3,
+    "broboljelih": 4,
     "name": "Zavidovici"
   },
   {
@@ -290,7 +290,7 @@
     "key": "Zepce",
     "latitude": 44.4287,
     "longitude": 18.0379,
-    "broboljelih": 1,
+    "broboljelih": 2,
     "name": "Zepce"
   },
   {
@@ -311,7 +311,7 @@
     "key": "Ilidza",
     "latitude": 43.8314,
     "longitude": 18.3002,
-    "broboljelih": 9,
+    "broboljelih": 10,
     "name": "Ilidza"
   },
   {
@@ -327,5 +327,19 @@
     "longitude": 18.2649,
     "broboljelih": 1,
     "name": "Ilijas"
+  },
+  {
+    "key": "Istocna Ilidza",
+    "latitude": 43.7912,
+    "longitude": 18.3750,
+    "broboljelih": 2,
+    "name": "Istocna Ilidza"
+  },
+  {
+    "key": "Pale",
+    "latitude": 43.8119,
+    "longitude": 18.5711,
+    "broboljelih": 2,
+    "name": "Pale"
   }
 ]
