@@ -7,13 +7,6 @@
     "name": "Banja Luka"
   },
   {
-    "key": "Tuzla",
-    "latitude": 44.53842,
-    "longitude": 18.66709,
-    "broboljelih": 27,
-    "name": "Tuzla"
-  },
-  {
     "key": "Konjic",
     "latitude": 43.65126,
     "longitude": 17.96082,
@@ -21,18 +14,11 @@
     "name": "Konjic"
   },
   {
-    "key": "Mostar",
-    "latitude": 43.343033,
-    "longitude": 17.807894,
-    "broboljelih": 20,
-    "name": "Mostar"
-  },
-  {
-    "key": "Laktasi",
-    "latitude": 44.90857,
-    "longitude": 17.30135,
-    "broboljelih": 19,
-    "name": "Laktasi"
+    "key": "Tuzla",
+    "latitude": 44.53842,
+    "longitude": 18.66709,
+    "broboljelih": 27,
+    "name": "Tuzla"
   },
   {
     "key": "Citluk",
@@ -49,11 +35,18 @@
     "name": "Siroki Brijeg"
   },
   {
-    "key": "Zenica",
-    "latitude": 44.20169,
-    "longitude": 17.90397,
-    "broboljelih": 15,
-    "name": "Zenica"
+    "key": "Mostar",
+    "latitude": 43.343033,
+    "longitude": 17.807894,
+    "broboljelih": 20,
+    "name": "Mostar"
+  },
+  {
+    "key": "Laktasi",
+    "latitude": 44.90857,
+    "longitude": 17.30135,
+    "broboljelih": 19,
+    "name": "Laktasi"
   },
   {
     "key": "Sarajevo",
@@ -63,18 +56,11 @@
     "name": "Sarajevo"
   },
   {
-    "key": "Gradiska",
-    "latitude": 45.14484,
-    "longitude": 17.25453,
-    "broboljelih": 11,
-    "name": "Gradiska"
-  },
-  {
-    "key": "Srebrenik",
-    "latitude": 44.7075,
-    "longitude": 18.4919,
-    "broboljelih": 11,
-    "name": "Srebrenik"
+    "key": "Zenica",
+    "latitude": 44.20169,
+    "longitude": 17.90397,
+    "broboljelih": 15,
+    "name": "Zenica"
   },
   {
     "key": "Ilidza",
@@ -84,6 +70,34 @@
     "name": "Ilidza"
   },
   {
+    "key": "Bihac",
+    "latitude": 44.81694,
+    "longitude": 15.87083,
+    "broboljelih": 11,
+    "name": "Bihac"
+  },
+  {
+    "key": "Srebrenik",
+    "latitude": 44.7075,
+    "longitude": 18.4919,
+    "broboljelih": 11,
+    "name": "Srebrenik"
+  },
+  {
+    "key": "Gradiska",
+    "latitude": 45.14484,
+    "longitude": 17.25453,
+    "broboljelih": 11,
+    "name": "Gradiska"
+  },
+  {
+    "key": "Bijeljina",
+    "latitude": 44.756944,
+    "longitude": 19.216111,
+    "broboljelih": 9,
+    "name": "Bijeljina"
+  },
+  {
     "key": "Kozarska Dubica",
     "latitude": 45.183333,
     "longitude": 16.8,
@@ -91,11 +105,11 @@
     "name": "Kozarska Dubica"
   },
   {
-    "key": "Bihac",
-    "latitude": 44.81694,
-    "longitude": 15.87083,
-    "broboljelih": 11,
-    "name": "Bihac"
+    "key": "Teslic",
+    "latitude": 44.60639,
+    "longitude": 17.85972,
+    "broboljelih": 7,
+    "name": "Teslic"
   },
   {
     "key": "Brcko",
@@ -112,20 +126,6 @@
     "name": "Gorazde"
   },
   {
-    "key": "Teslic",
-    "latitude": 44.60639,
-    "longitude": 17.85972,
-    "broboljelih": 7,
-    "name": "Teslic"
-  },
-  {
-    "key": "Bijeljina",
-    "latitude": 44.756944,
-    "longitude": 19.216111,
-    "broboljelih": 9,
-    "name": "Bijeljina"
-  },
-  {
     "key": "Prnjavor",
     "latitude": 44.87021,
     "longitude": 17.66256,
@@ -140,13 +140,6 @@
     "name": "Knezevo"
   },
   {
-    "key": "Zavidovici",
-    "latitude": 44.4437,
-    "longitude": 18.1451,
-    "broboljelih": 4,
-    "name": "Zavidovici"
-  },
-  {
     "key": "Grude",
     "latitude": 43.37465,
     "longitude": 17.409625,
@@ -154,11 +147,18 @@
     "name": "Grude"
   },
   {
-    "key": "Modrica",
-    "latitude": 44.9544444,
-    "longitude": 18.3036111,
-    "broboljelih": 3,
-    "name": "Modrica"
+    "key": "Kotor Varos",
+    "latitude": 44.6169,
+    "longitude": 17.3854,
+    "broboljelih": 5,
+    "name": "Kotor Varos"
+  },
+  {
+    "key": "Zavidovici",
+    "latitude": 44.4437,
+    "longitude": 18.1451,
+    "broboljelih": 4,
+    "name": "Zavidovici"
   },
   {
     "key": "Posusje",
@@ -166,6 +166,20 @@
     "longitude": 17.3297,
     "broboljelih": 4,
     "name": "Posusje"
+  },
+  {
+    "key": "Ribnik",
+    "latitude": 44.45,
+    "longitude": 16.816667,
+    "broboljelih": 3,
+    "name": "Ribnik"
+  },
+  {
+    "key": "Prijedor",
+    "latitude": 44.980833,
+    "longitude": 16.713333,
+    "broboljelih": 3,
+    "name": "Prijedor"
   },
   {
     "key": "Kakanj",
@@ -182,11 +196,11 @@
     "name": "Celinac"
   },
   {
-    "key": "Novi Travnik",
-    "latitude": 44.17133,
-    "longitude": 17.65816,
-    "broboljelih": 2,
-    "name": "Novi Travnik"
+    "key": "Modrica",
+    "latitude": 44.9544444,
+    "longitude": 18.3036111,
+    "broboljelih": 3,
+    "name": "Modrica"
   },
   {
     "key": "Tesanj",
@@ -196,11 +210,11 @@
     "name": "Tesanj"
   },
   {
-    "key": "Ribnik",
-    "latitude": 44.45,
-    "longitude": 16.816667,
-    "broboljelih": 3,
-    "name": "Ribnik"
+    "key": "Bosanska Krupa",
+    "latitude": 44.8825,
+    "longitude": 16.15139,
+    "broboljelih": 2,
+    "name": "Bosanska Krupa"
   },
   {
     "key": "Pale",
@@ -208,20 +222,6 @@
     "longitude": 18.5711,
     "broboljelih": 2,
     "name": "Pale"
-  },
-  {
-    "key": "Prijedor",
-    "latitude": 44.980833,
-    "longitude": 16.713333,
-    "broboljelih": 3,
-    "name": "Prijedor"
-  },
-  {
-    "key": "Kotor Varos",
-    "latitude": 44.6169,
-    "longitude": 17.3854,
-    "broboljelih": 5,
-    "name": "Kotor Varos"
   },
   {
     "key": "Istocna Ilidza",
@@ -255,64 +255,15 @@
     "key": "Cazin",
     "latitude": 44.969,
     "longitude": 15.9432,
-    "broboljelih": 2,
+    "broboljelih": 7,
     "name": "Cazin"
   },
   {
-    "key": "Gornji Vakuf - Uskoplje",
-    "latitude": 43.9375,
-    "longitude": 17.588,
-    "broboljelih": 1,
-    "name": "Gornji Vakuf - Uskoplje"
-  },
-  {
-    "key": "Breza",
-    "latitude": 44.0181,
-    "longitude": 18.2613,
-    "broboljelih": 1,
-    "name": "Breza"
-  },
-  {
-    "key": "Visoko",
-    "latitude": 43.98889,
-    "longitude": 18.17806,
-    "broboljelih": 1,
-    "name": "Visoko"
-  },
-  {
-    "key": "Derventa",
-    "latitude": 44.97839,
-    "longitude": 17.90779,
-    "broboljelih": 1,
-    "name": "Derventa"
-  },
-  {
-    "key": "Zivinice",
-    "latitude": 44.4466,
-    "longitude": 18.6511,
-    "broboljelih": 1,
-    "name": "Zivinice"
-  },
-  {
-    "key": "Srbac",
-    "latitude": 45.0973,
-    "longitude": 17.52331,
-    "broboljelih": 1,
-    "name": "Srbac"
-  },
-  {
-    "key": "Bosanska Krupa",
-    "latitude": 44.8825,
-    "longitude": 16.15139,
+    "key": "Novi Travnik",
+    "latitude": 44.17133,
+    "longitude": 17.65816,
     "broboljelih": 2,
-    "name": "Bosanska Krupa"
-  },
-  {
-    "key": "Doboj",
-    "latitude": 44.73179,
-    "longitude": 18.08698,
-    "broboljelih": 1,
-    "name": "Doboj"
+    "name": "Novi Travnik"
   },
   {
     "key": "Orasje",
@@ -322,13 +273,6 @@
     "name": "Orasje"
   },
   {
-    "key": "Vogosca",
-    "latitude": 43.9022,
-    "longitude": 18.3426,
-    "broboljelih": 1,
-    "name": "Vogosca"
-  },
-  {
     "key": "Ilijas",
     "latitude": 43.9486,
     "longitude": 18.2649,
@@ -336,10 +280,73 @@
     "name": "Ilijas"
   },
   {
+    "key": "Vogosca",
+    "latitude": 43.9022,
+    "longitude": 18.3426,
+    "broboljelih": 1,
+    "name": "Vogosca"
+  },
+  {
+    "key": "Doboj",
+    "latitude": 44.73179,
+    "longitude": 18.08698,
+    "broboljelih": 1,
+    "name": "Doboj"
+  },
+  {
+    "key": "Breza",
+    "latitude": 44.0181,
+    "longitude": 18.2613,
+    "broboljelih": 1,
+    "name": "Breza"
+  },
+  {
+    "key": "Srbac",
+    "latitude": 45.0973,
+    "longitude": 17.52331,
+    "broboljelih": 1,
+    "name": "Srbac"
+  },
+  {
+    "key": "Zivinice",
+    "latitude": 44.4466,
+    "longitude": 18.6511,
+    "broboljelih": 1,
+    "name": "Zivinice"
+  },
+  {
+    "key": "Derventa",
+    "latitude": 44.97839,
+    "longitude": 17.90779,
+    "broboljelih": 1,
+    "name": "Derventa"
+  },
+  {
+    "key": "Visoko",
+    "latitude": 43.98889,
+    "longitude": 18.17806,
+    "broboljelih": 1,
+    "name": "Visoko"
+  },
+  {
+    "key": "Gornji Vakuf - Uskoplje",
+    "latitude": 43.9375,
+    "longitude": 17.588,
+    "broboljelih": 1,
+    "name": "Gornji Vakuf - Uskoplje"
+  },
+  {
     "key": "Buzim",
     "latitude": 45.0489,
     "longitude": 16.024,
     "broboljelih": 0,
     "name": "Buzim"
+  },
+  {
+    "key": "Vitez",
+    "latitude": 44.1509,
+    "longitude": 17.7905,
+    "broboljelih": 6,
+    "name": "Vitez"
   }
 ]
