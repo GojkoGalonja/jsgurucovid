@@ -341,5 +341,12 @@
     "longitude": 17.588,
     "broboljelih": 1,
     "name": "Gornji Vakuf - Uskoplje"
+  },
+    {
+    "key": "Р",
+    "latitude": 43,
+    "longitude": 17,
+    "broboljelih": 1,
+    "name": "Р"
   }
 ]
